@@ -1,14 +1,16 @@
 {
-    "name": "vendor/newpackage",
-    "description": "test package",
-    "type": "try",
-    "license": "MIT'",
+    "name": "vendor/package",
+    "description": "package creation",
+    "type": "lib",
+    "require": {
+        "php": "5.3"
+    },
+    "license": "mit",
     "authors": [
         {
-            "name": "karter",
-            "email": "karter@keltron.org"
+            "name": "karterpaul",
+            "email": "karterpauls@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
