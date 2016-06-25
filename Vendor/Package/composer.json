@@ -1,0 +1,14 @@
+{
+    "name": "vendor/package",
+    "description": "test package",
+    "type": "try",
+    "license": "MIT'",
+    "authors": [
+        {
+            "name": "karter",
+            "email": "karter@keltron.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
