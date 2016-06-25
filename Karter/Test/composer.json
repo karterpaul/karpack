@@ -1,0 +1,16 @@
+{
+    "name": "karter/test",
+    "description": "test package for packagist",
+    "type": "lib",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "karterpaul",
+            "email": "karterpauls@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
