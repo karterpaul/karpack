@@ -1,5 +1,5 @@
 {
-    "name": "vendor/package",
+    "name": "vendor/newpackage",
     "description": "test package",
     "type": "try",
     "license": "MIT'",
