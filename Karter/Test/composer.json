@@ -1,10 +1,7 @@
 {
     "name": "karter/test",
-    "description": "test package for packagist",
+    "description": "test packgist add",
     "type": "library",
-    "require": {
-        "php": ">=5.3"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -13,9 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "Karter\\Test\\": "src/"
-        }
-    }
+    "require": {}
 }
