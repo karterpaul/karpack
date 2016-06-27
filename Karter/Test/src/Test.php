@@ -1,6 +1,6 @@
 <?php namespace Vendor\Package;
 
-class Awesome
+class Test
 {
     public function printAwesomeness()
     {
