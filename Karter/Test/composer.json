@@ -1,11 +1,11 @@
 {
     "name": "karter/test",
     "description": "test package for packagist",
-    "type": "lib",
+    "type": "library",
     "require": {
         "php": ">=5.3"
     },
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "karterpaul",
