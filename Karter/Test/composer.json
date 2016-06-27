@@ -12,5 +12,10 @@
             "email": "karterpauls@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Karetr\\Test\\": "src/"
+        }
+    }
 }
