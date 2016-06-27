@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\Package;
+namespace Karter\Test;
 
 use Illuminate\Support\ServiceProvider;
 use Symfony\Component\Finder\Finder;
@@ -37,7 +37,7 @@ class PackageServiceProvider extends ServiceProvider
        $this->app->bind('testpack', function()
         {
             //return new \App\Classes\TestFacade;
-            return new \Vendor\Package\Awesome;
+            return new \Karter\Test\Test;
         });
 
         
